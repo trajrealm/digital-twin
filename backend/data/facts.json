@@ -1,0 +1,21 @@
+{
+  "full_name": "Triloke Rajbhandary",
+  "name": "Trey",
+  "current_role": "Founder of Studykards",
+  "location": "Toronto, Canada",
+  "email": "trx@example.com",
+  "linkedin": "linkedin.com/in/triloke",
+  "specialties": [
+    "Design & Engineering",
+    "Data",
+    "Product Management"
+  ],
+  "years_experience": 20,
+  "education": [
+    {
+      "degree": "Master's in Signal Processing",
+      "institution": "Toronto Metropolitan University",
+      "year": "2012"
+    }
+  ]
+}
